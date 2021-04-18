@@ -3,7 +3,7 @@ A game of Boggle I made in Python for fun, you can play it on your terminal.
 
 HI! Welcome to Boggle, a fun and simple word game.
 
-How to run:
+# How to run:
 
 -----
 
@@ -11,7 +11,7 @@ In order to play, you need to have Python installed on your machine.
 
 Open your command prompt or terminal and navigate to the Boggle folder, once there simply enter "python Boggle.py"
 
-How to play:
+# How to play:
 
 -----
 
@@ -35,9 +35,13 @@ O
 
 -The longer a word is, the more points it's worth!
 
-Credits:
+# Credits:
+
 -----
+
 Boggle the game created by: Alan Turoff of the "Parker Brothers" in 1972
+
 Dictionary of words provided by: https://github.com/dwyl/english-words
+
 Coded by: Neil Nguyen on 4/17/2021
 
