@@ -21,11 +21,11 @@ Here are the rules for valid words:
 
 -You cannot repeat slots that have already been used for that word, like so:
 
-PO
+LA
 
-O
+V
 
-"POOP" would be invalid in the example above because you'd be reusing the same "P"
+"LAVA" would be invalid in the example above because you'd be reusing the same "A"
 
 -You cannot repeat words
 
